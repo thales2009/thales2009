@@ -7,3 +7,6 @@
 
   ![](https://media.tenor.com/kRbTCxEMfqsAAAAj/deadline-work-hard.gif)
 
+ to play the pong game i created with alura and p5js click in the link below
+
+ https://editor.p5js.org/thalesschartner/sketches/pGXI5KpsM
